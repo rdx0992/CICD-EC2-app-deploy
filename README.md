@@ -1,2 +1,15 @@
-# CICD-EC2-app-deploy
-web app deploy on ec2 using jenkins
+# node-todo-cicd
+
+Run these commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
